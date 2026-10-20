@@ -1,8 +1,6 @@
 # Hospital de los Costeños con Narcolepsia
 
-Object-Oriented Programming — Universidad EIA. Written in Go (1.21+), standard library only.
-
-**Group members:** _<your name>_
+**Group members:** Mariana Zuluaga y Valeria Pérez.
 
 ## Run
 
